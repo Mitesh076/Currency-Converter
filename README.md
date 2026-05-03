@@ -67,10 +67,11 @@ It demonstrates core **JavaScript concepts** like:
 
 git clone https://github.com/Mitesh076/currency-converter.git
 
-### 2️⃣ Navigate to Project
+### 2️⃣ Navigate to Project & install dependencies
 
 cd currency-converter
+npm install
 
 ### 3️⃣ Run the Project
 
-Just open:index.html
+npm run dev
