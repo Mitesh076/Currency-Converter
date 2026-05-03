@@ -22,7 +22,7 @@
 ## 📸 Preview
 
 <p align="center">
-  <img src="/public/SS.png" alt="Currency Converter UI" width="750"/>
+  <img src="https://github.com/Mitesh076/Currency-Converter/blob/main/Currency%20Converter.png" alt="Currency Converter UI" width="750"/>
 </p>
 
 ---
