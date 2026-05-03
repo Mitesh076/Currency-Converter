@@ -55,6 +55,7 @@ It demonstrates core **JavaScript concepts** like:
 | HTML5            | Structure of the app  |
 | CSS3             | Styling and layout    |
 | JavaScript (ES6) | Functionality & logic |
+| React Js         | API Call & Data Fetch |
 
 ---
 
